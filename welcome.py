@@ -1,4 +1,4 @@
 #Prueba de git
 
 print("welcome!!")
-print("Cargado desde Github 3")
+print("Load from Github")
